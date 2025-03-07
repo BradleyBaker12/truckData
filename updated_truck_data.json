@@ -10,6 +10,13 @@
                 "R144GA 6X2 460 AIR T/T C/C"
             ]
         }
+        "Isuzu": {
+            "F/ GVR SERIES": [
+                "FRR 500 F/C C/C",
+                "FSR 700 F/C C/C",
+                "FTR 800 F/C C/C"
+            ]
+        }
     },
     "1998": {
         "Scania": {
@@ -24,6 +31,15 @@
                 "R144GA 460 T/T C/C",
                 "R144GA 530 T/T C/C",
                 "R144GA 6X2 460 AIR T/T C/C"
+            ]
+        }
+        "Isuzu": {
+            "F/ GVR SERIES": [
+                "FRR 500 F/C C/C",
+                "FSR 700 F/C C/C",
+                "FTR 800 F/C C/C",
+                "FTR 800 TURBO F/C C/C",
+                "FVR 900 TURBO TIP C/C"
             ]
         }
     },
@@ -66,6 +82,16 @@
                 "9-136 F/C C/C"
             ]
         }
+        "Isuzu": {
+            "F/ GVR SERIES": [
+                "FRR 500 F/C C/C",
+                "FSR 700 F/C C/C",
+                "FTR 800 F/C C/C",
+                "FTR 800 TURBO F/C C/C",
+                "FVR 900 TURBO TIP C/C",
+                "FVZ 1400 TURBO F/C C/C"
+            ]
+        }
     },
     "2000": {
         "Scania": {
@@ -106,6 +132,16 @@
                 "16-237 F/C C/C",
                 "16-257 F/C C/C",
                 "9-136 F/C C/C"
+            ]
+        }
+        "Isuzu": {
+            "F/ GVR SERIES": [
+                "FRR 500 F/C C/C",
+                "FSR 700 F/C C/C",
+                "FTR 800 F/C C/C",
+                "FTR 800 TURBO F/C C/C",
+                "FVR 900 TURBO TIP C/C",
+                "FVZ 1400 TURBO F/C C/C"
             ]
         }
     },
@@ -159,6 +195,16 @@
                 "16-237 F/C C/C",
                 "16-257 F/C C/C",
                 "9-136 F/C C/C"
+            ]
+        }
+        "Isuzu": {
+            "F/ GVR SERIES": [
+                "FRR 500 F/C C/C",
+                "FSR 700 F/C C/C",
+                "FTR 800 F/C C/C",
+                "FTR 800 TURBO F/C C/C",
+                "FVR 900 TURBO TIP C/C",
+                "FVZ 1400 TURBO F/C C/C"
             ]
         }
     },
@@ -245,6 +291,17 @@
             "PROFIA": [
                 "PROFIA 45-350 T/T C/C",
                 "PROFIA 57-370 T/T C/C"
+            ]
+        }
+        "Isuzu": {
+            "F/ GVR SERIES": [
+                "FRR 500 F/C C/C",
+                "FSR 700 F/C C/C",
+                "FTR 800 F/C C/C",
+                "FTR 800 TURBO F/C C/C",
+                "FVR 900 TURBO TIP C/C",
+                "FVZ 1400 TURBO F/C C/C",
+                "GVR 2300 TURBO T/T C/C"
             ]
         }
     },
@@ -344,6 +401,19 @@
             "PROFIA": [
                 "PROFIA 45-350 T/T C/C",
                 "PROFIA 57-370 T/T C/C"
+            ]
+        }
+        "Isuzu": {
+            "F/ GVR SERIES": [
+                "FRR 500 F/C C/C",
+                "FSR 700 F/C C/C",
+                "FTM 1200 TURBO F/C C/C",
+                "FTR 800 F/C C/C",
+                "FTR 800 TIP C/C",
+                "FTR 800 TURBO F/C C/C",
+                "FVR 900 TURBO TIP C/C",
+                "FVZ 1400 TURBO F/C C/C",
+                "GVR 2300 TURBO T/T C/C"
             ]
         }
     },
@@ -467,6 +537,19 @@
             "PROFIA": [
                 "PROFIA 45-350 T/T C/C",
                 "PROFIA 57-370 T/T C/C"
+            ]
+        }
+        "Isuzu": {
+            "F/ GVR SERIES": [
+                "FRR 500 F/C C/C",
+                "FSR 700 F/C C/C",
+                "FTM 1200 TURBO F/C C/C",
+                "FTR 800 F/C C/C",
+                "FTR 800 TIP C/C",
+                "FTR 800 TURBO F/C C/C",
+                "FVR 900 TURBO TIP C/C",
+                "FVZ 1400 TURBO F/C C/C",
+                "GVR 2300 TURBO T/T C/C"
             ]
         }
     },
@@ -648,6 +731,19 @@
             "PROFIA": [
                 "PROFIA 45-350 T/T C/C",
                 "PROFIA 57-370 T/T C/C"
+            ]
+        }
+        "Isuzu": {
+            "F/ GVR SERIES": [
+                "FRR 500 F/C C/C",
+                "FSR 700 F/C C/C",
+                "FTM 1200 TURBO F/C C/C",
+                "FTR 800 F/C C/C",
+                "FTR 800 TIP C/C",
+                "FTR 800 TURBO F/C C/C",
+                "FVR 900 TURBO TIP C/C",
+                "FVZ 1400 TURBO F/C C/C",
+                "GVR 2300 TURBO T/T C/C"
             ]
         }
     },
@@ -893,6 +989,20 @@
                 "17.250 4X2 BB LWB EXEC SLEEP F/C C/C",
                 "19.320 4X2 BBS HR EXEC SLEEP T/T C/C",
                 "24.250 6X2 BBL LWB EXEC SLEEP F/C C/C"
+            ]
+        }
+        "Isuzu": {
+            "F/ GVR SERIES": [
+                "FRR 500 F/C C/C",
+                "FSR 700 F/C C/C",
+                "FTM 1200 TURBO F/C C/C",
+                "FTR 800 F/C C/C",
+                "FTR 800 TIP C/C",
+                "FTR 800 TURBO F/C C/C",
+                "FVR 900 TURBO TIP C/C",
+                "FVZ 1400 TURBO F/C C/C",
+                "GVR 2300 TURBO T/T C/C",
+                "FVZ 1600 T REF C/C"
             ]
         }
     },
@@ -1163,6 +1273,20 @@
             ],
             "33 SERIES": [
                 "33.330 FC 6M3 MIXER"
+            ]
+        }
+        "Isuzu": {
+            "F/ GVR SERIES": [
+                "FRR 500 F/C C/C",
+                "FSR 700 F/C C/C",
+                "FTM 1200 TURBO F/C C/C",
+                "FTR 800 F/C C/C",
+                "FTR 800 TIP C/C",
+                "FTR 800 TURBO F/C C/C",
+                "FVR 900 TURBO TIP C/C",
+                "FVZ 1400 TURBO F/C C/C",
+                "GVR 2300 TURBO T/T C/C",
+                "FVZ 1600 T REF C/C"
             ]
         }
     },
@@ -1449,6 +1573,20 @@
             ],
             "33 SERIES": [
                 "33.330 FC 6M3 MIXER"
+            ]
+        }
+        "Isuzu": {
+            "F/ GVR SERIES": [
+                "FRR 500 F/C C/C",
+                "FSR 700 F/C C/C",
+                "FTM 1200 TURBO F/C C/C",
+                "FTR 800 F/C C/C",
+                "FTR 800 TIP C/C",
+                "FTR 800 TURBO F/C C/C",
+                "FVR 900 TURBO TIP C/C",
+                "FVZ 1400 TURBO F/C C/C",
+                "GVR 2300 TURBO T/T C/C",
+                "FVZ 1600 T REF C/C"
             ]
         }
     },
