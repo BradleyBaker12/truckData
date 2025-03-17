@@ -2915,7 +2915,8 @@
                 "ACTROS 2650L/45 F/C C/C",
                 "ACTROS 2650LS/33 T/T C/C",
                 "ACTROS 2654LS/33 T/T C/C",
-                "AXOR 2628L/57 F/C C/C"
+                "AXOR 2628L/57 F/C C/C",
+                "ACTROS 2658LS/33 T/T C/C"
             ],
             "28 / 33 / 35 Series": [
                 "ACTROS 3331/33 TIP C/C",
@@ -2937,7 +2938,8 @@
                 "AXOR 3335S/33 T/T C/C",
                 "AXOR 3340/45 F/C C/C",
                 "AXOR 3340S/33 T/T C/C",
-                "AXOR 3535K/51 TIP C/C"
+                "AXOR 3535K/51 TIP C/C",
+                "ACTROS 3558S/33 T/T C/C"
             ],
             "38 / 40 / 41 Series / eActros": [
                 "ACTROS 4036K/39 TIP C/C",
@@ -3398,7 +3400,10 @@
                 "AXOR 2628B/33 TIP C/C"
             ],
             "2628 / 2635-8 / 2640-3-4-8 / 2650-4-8": [
-                "ACTROS 2644LS/33 T/T C/C"
+                "ACTROS 2644LS/33 T/T C/C",
+                "ACTROS 2654L/45 HYP F/C C/C",
+                "ACTROS 2654LS/33 HYP T/T C/C",
+                "ACTROS 2658LS/33 T/T C/C"
             ],
             "28 / 33 / 35 Series": [
                 "ACTROS 3344/45 F/C C/C",
@@ -3412,7 +3417,9 @@
                 "AXOR 3335S/33 T/T C/C",
                 "AXOR 3340/45 F/C C/C",
                 "AXOR 3340S/33 T/T C/C",
-                "AXOR 3535K/51 TIP C/C"
+                "AXOR 3535K/51 TIP C/C",
+                "ACTROS 3332/45 F/C C/C",
+                "ACTROS 3558S/33 T/T C/C"
             ],
             "38 / 40 / 41 Series / eActros": [
                 "ACTROS 4144K/51 MIX C/C",
@@ -3903,7 +3910,10 @@
                 "AXOR 2628B/33 TIP C/C"
             ],
             "2628 / 2635-8 / 2640-3-4-8 / 2650-4-8": [
-                "AXOR 2628L/57 F/C C/C"
+                "AXOR 2628L/57 F/C C/C",
+                "ACTROS 2654L/45 HYP F/C C/C",
+                "ACTROS 2654LS/33 HYP T/T C/C",
+                "ACTROS 2658LS/33 T/T C/C"
             ],
             "28 / 33 / 35 Series": [
                 "ACTROS 3344/45 F/C C/C",
@@ -3917,7 +3927,9 @@
                 "AXOR 3335S/33 T/T C/C",
                 "AXOR 3340/45 F/C C/C",
                 "AXOR 3340S/33 T/T C/C",
-                "AXOR 3535K/51 TIP C/C"
+                "AXOR 3535K/51 TIP C/C",
+                "ACTROS 3332/45 F/C C/C",
+                "ACTROS 3558S/33 T/T C/C"
             ],
             "38 / 40 / 41 Series / eActros": [
                 "ACTROS 4144K/51 TIP C/C"
@@ -4514,7 +4526,12 @@
                 "AXOR 2628B/33 TIP C/C"
             ],
             "2628 / 2635-8 / 2640-3-4-8 / 2650-4-8": [
-                "AXOR 2628L/57 F/C C/C"
+                "AXOR 2628L/57 F/C C/C",
+                "ACTROS 2641LS/33 DD T/T C/C",
+                "ACTROS 2646LS/33 DD T/T C/C",
+                "ACTROS 2654L/45 HYP F/C C/C",
+                "ACTROS 2654LS/33 HYP T/T C/C",
+                "ACTROS 2658LS/33 T/T C/C"
             ],
             "28 / 33 / 35 Series": [
                 "ACTROS 3344/45 F/C C/C",
@@ -4528,7 +4545,9 @@
                 "AXOR 3335S/33 T/T C/C",
                 "AXOR 3340/45 F/C C/C",
                 "AXOR 3340S/33 T/T C/C",
-                "AXOR 3535K/51 TIP C/C"
+                "AXOR 3535K/51 TIP C/C",
+                "ACTROS 3332/45 F/C C/C",
+                "ACTROS 3558S/33 T/T C/C"
             ],
             "38 / 40 / 41 Series / eActros": [
                 "ACTROS 4144K/51 TIP C/C"
@@ -5012,7 +5031,8 @@
                 "ATEGO 1518K/33 TIP C/C",
                 "ATEGO 1523/54 F/C C/C",
                 "ATEGO 1524/54 F/C C/C",
-                "ATEGO 1528/54 F/C C/C"
+                "ATEGO 1528/54 F/C C/C",
+                "ATEGO 1528LS/36 T/T C/C"
             ],
             "190 / C180": [
                 "ATEGO 918/42 F/C C/C"
@@ -5026,7 +5046,8 @@
                 "AXOR 1823K/36 TIP C/C",
                 "AXOR 1828/60 F/C C/C",
                 "AXOR 1835LS/36 T/T C/C",
-                "AXOR 1840LS/36 T/T C/C"
+                "AXOR 1840LS/36 T/T C/C",
+                "ACTROS 1832LS/36 T/T C/C"
             ],
             "2233 / 24 / 25": [
                 "AXOR 2528L/51 F/C C/C",
@@ -5037,7 +5058,12 @@
                 "AXOR 2628B/33 TIP C/C"
             ],
             "2628 / 2635-8 / 2640-3-4-8 / 2650-4-8": [
-                "AXOR 2628L/57 F/C C/C"
+                "AXOR 2628L/57 F/C C/C",
+                "ACTROS 2641LS/33 DD T/T C/C",
+                "ACTROS 2646LS/33 DD T/T C/C",
+                "ACTROS 2654L/45 HYP F/C C/C",
+                "ACTROS 2654LS/33 HYP T/T C/C",
+                "ACTROS 2658LS/33 T/T C/C"
             ],
             "28 / 33 / 35 Series": [
                 "ACTROS 3344/45 F/C C/C",
@@ -5051,7 +5077,9 @@
                 "AXOR 3335S/33 T/T C/C",
                 "AXOR 3340/45 F/C C/C",
                 "AXOR 3340S/33 T/T C/C",
-                "AXOR 3535K/51 TIP C/C"
+                "AXOR 3535K/51 TIP C/C",
+                "ACTROS 3332/45 F/C C/C",
+                "ACTROS 3558S/33 T/T C/C"
             ],
             "38 / 40 / 41 Series / eActros": [
                 "ACTROS 4144K/51 TIP C/C"
@@ -5558,7 +5586,8 @@
                 "ATEGO 1518/54 F/C C/C",
                 "ATEGO 1518K/33 TIP C/C",
                 "ATEGO 1523/54 F/C C/C",
-                "ATEGO 1528/54 F/C C/C"
+                "ATEGO 1528/54 F/C C/C",
+                "ATEGO 1528LS/36 T/T C/C"
             ],
             "190 / C180": [
                 "ATEGO 918/42 F/C C/C"
@@ -5572,7 +5601,8 @@
                 "AXOR 1823K/36 TIP C/C",
                 "AXOR 1828/60 F/C C/C",
                 "AXOR 1835LS/36 T/T C/C",
-                "AXOR 1840LS/36 T/T C/C"
+                "AXOR 1840LS/36 T/T C/C",
+                "ACTROS 1832LS/36 T/T C/C"
             ],
             "2233 / 24 / 25": [
                 "AXOR 2528L/51 F/C C/C",
@@ -5583,7 +5613,12 @@
                 "AXOR 2628B/33 TIP C/C"
             ],
             "2628 / 2635-8 / 2640-3-4-8 / 2650-4-8": [
-                "AXOR 2628L/57 F/C C/C"
+                "AXOR 2628L/57 F/C C/C",
+                "ACTROS 2641LS/33 DD T/T C/C",
+                "ACTROS 2646LS/33 DD T/T C/C",
+                "ACTROS 2654L/45 HYP F/C C/C",
+                "ACTROS 2654LS/33 HYP T/T C/C",
+                "ACTROS 2658LS/33 T/T C/C"
             ],
             "28 / 33 / 35 Series": [
                 "ACTROS 3344/45 F/C C/C",
@@ -5597,7 +5632,9 @@
                 "AXOR 3335S/33 T/T C/C",
                 "AXOR 3340/45 F/C C/C",
                 "AXOR 3340S/33 T/T C/C",
-                "AXOR 3535K/51 TIP C/C"
+                "AXOR 3535K/51 TIP C/C",
+                "ACTROS 3332/45 F/C C/C",
+                "ACTROS 3558S/33 T/T C/C"
             ],
             "38 / 40 / 41 Series / eActros": [
                 "ACTROS 4144K/51 TIP C/C"
@@ -6114,7 +6151,8 @@
                 "ATEGO 1518/54 F/C C/C",
                 "ATEGO 1518K/33 TIP C/C",
                 "ATEGO 1523/54 F/C C/C",
-                "ATEGO 1528/54 F/C C/C"
+                "ATEGO 1528/54 F/C C/C",
+                "ATEGO 1528LS/36 T/T C/C"
             ],
             "190 / C180": [
                 "ATEGO 918/42 F/C C/C"
@@ -6128,7 +6166,13 @@
                 "AXOR 1823K/36 TIP C/C",
                 "AXOR 1828/60 F/C C/C",
                 "AXOR 1835LS/36 T/T C/C",
-                "AXOR 1840LS/36 T/T C/C"
+                "AXOR 1840LS/36 T/T C/C",
+                "ACTROS 1832A/45 4X4 F/C C/C",
+                "ACTROS 1832LS/36 T/T C/C",
+                "ACTROS 1836LS/37 A/T T/T C/C",
+                "ACTROS 1840LS/37 FS A/T T/T C/C",
+                "ACTROS 1842LS/37 A/T T/T C/C",
+                "ACTROS 1842LS/37 E5 A/T T/T C/C"
             ],
             "2233 / 24 / 25": [
                 "AXOR 2528L/51 F/C C/C",
@@ -6139,7 +6183,18 @@
                 "AXOR 2628B/33 TIP C/C"
             ],
             "2628 / 2635-8 / 2640-3-4-8 / 2650-4-8": [
-                "AXOR 2628L/57 F/C C/C"
+                "AXOR 2628L/57 F/C C/C",
+                "ACTROS 2641LS/33 DD T/T C/C",
+                "ACTROS 2645LS/33 A/T T/T C/C",
+                "ACTROS 2645LS/33 E5 A/T T/T C/C",
+                "ACTROS 2645LS/33 FS A/T T/T C/C",
+                "ACTROS 2645LS/33 PURE A/T T/T C/C",
+                "ACTROS 2646LS/33 DD T/T C/C",
+                "ACTROS 2652LS/33 A/T T/T C/C",
+                "ACTROS 2654L/45 HYP F/C C/C",
+                "ACTROS 2654LS/33 HYP T/T C/C",
+                "ACTROS 2658LS/33 T/T C/C",
+                "ACTROS 2663LS/33 E5 A/T T/T C/C"
             ],
             "28 / 33 / 35 Series": [
                 "ACTROS 3344/45 F/C C/C",
@@ -6153,7 +6208,10 @@
                 "AXOR 3335S/33 T/T C/C",
                 "AXOR 3340/45 F/C C/C",
                 "AXOR 3340S/33 T/T C/C",
-                "AXOR 3535K/51 TIP C/C"
+                "AXOR 3535K/51 TIP C/C",
+                "ACTROS 3332/45 F/C C/C",
+                "ACTROS 3345S/33 A/T T/T C/C",
+                "ACTROS 3558S/33 T/T C/C"
             ],
             "38 / 40 / 41 Series / eActros": [
                 "ACTROS 4144K/51 TIP C/C"
@@ -6721,7 +6779,8 @@
                 "ATEGO 1518/54 F/C C/C",
                 "ATEGO 1518K/33 TIP C/C",
                 "ATEGO 1523/54 F/C C/C",
-                "ATEGO 1528/54 F/C C/C"
+                "ATEGO 1528/54 F/C C/C",
+                "ATEGO 1528LS/36 T/T C/C"
             ],
             "190 / C180": [
                 "ATEGO 918/42 F/C C/C"
@@ -6735,7 +6794,13 @@
                 "AXOR 1823K/36 TIP C/C",
                 "AXOR 1828/60 F/C C/C",
                 "AXOR 1835LS/36 T/T C/C",
-                "AXOR 1840LS/36 T/T C/C"
+                "AXOR 1840LS/36 T/T C/C",
+                "ACTROS 1832A/45 4X4 F/C C/C",
+                "ACTROS 1832LS/36 T/T C/C",
+                "ACTROS 1836LS/37 A/T T/T C/C",
+                "ACTROS 1840LS/37 FS A/T T/T C/C",
+                "ACTROS 1842LS/37 A/T T/T C/C",
+                "ACTROS 1842LS/37 E5 A/T T/T C/C"
             ],
             "2233 / 24 / 25": [
                 "AXOR 2528L/51 F/C C/C",
@@ -6746,7 +6811,20 @@
                 "AXOR 2628B/33 TIP C/C"
             ],
             "2628 / 2635-8 / 2640-3-4-8 / 2650-4-8": [
-                "AXOR 2628L/57 F/C C/C"
+                "AXOR 2628L/57 F/C C/C",
+                "ACTROS 2640LS/33 A/T T/T C/C",
+                "ACTROS 2641LS/33 DD T/T C/C",
+                "ACTROS 2645LS/33 A/T T/T C/C",
+                "ACTROS 2645LS/33 E5 A/T T/T C/C",
+                "ACTROS 2645LS/33 FS A/T T/T C/C",
+                "ACTROS 2645LS/33 PURE A/T T/T C/C",
+                "ACTROS 2646LS/33 DD T/T C/C",
+                "ACTROS 2652LS/33 A/T T/T C/C",
+                "ACTROS 2654L/45 HYP F/C C/C",
+                "ACTROS 2654LS/33 HYP T/T C/C",
+                "ACTROS 2658LS/33 T/T C/C",
+                "ACTROS 2663LS/33 E5 A/T T/T C/C",
+                "AROCS 2636L/57 A/T F/C C/C"
             ],
             "28 / 33 / 35 Series": [
                 "ACTROS 3344/45 F/C C/C",
@@ -6760,7 +6838,17 @@
                 "AXOR 3335S/33 T/T C/C",
                 "AXOR 3340/45 F/C C/C",
                 "AXOR 3340S/33 T/T C/C",
-                "AXOR 3535K/51 TIP C/C"
+                "AXOR 3535K/51 TIP C/C",
+                "ACTROS 3332/45 F/C C/C",
+                "ACTROS 3340S/33 A/T T/T C/C",
+                "ACTROS 3345S/33 A/T T/T C/C",
+                "ACTROS 3352S/33 A/T T/T C/C",
+                "ACTROS 3358LS/33 A/T F/C C/C",
+                "ACTROS 3558S/33 T/T C/C",
+                "AROCS 3236B/51 A/T MIX C/C",
+                "AROCS 3336K/36 A/T TIP C/C",
+                "AROCS 3345/48 A/T F/C C/C",
+                "AROCS 3352/45 A/T F/C C/C"
             ],
             "38 / 40 / 41 Series / eActros": [
                 "ACTROS 4144K/51 TIP C/C"
@@ -7321,7 +7409,11 @@
                 "ACTROS 1842LS/37 4X2 T/T C/C",
                 "ACTROS 1842LS/37 E3 RE 4X2 A/T T/T C/C",
                 "ACTROS 1842LS/37 E5 RE 4X2 A/T T/T",
-                "AROCS 1836A/45 4X4 A/T F/C C/C"
+                "AROCS 1836A/45 4X4 A/T F/C C/C",
+                "ACTROS 1836LS/37 A/T T/T C/C",
+                "ACTROS 1842LS/37 A/T T/T C/C",
+                "ACTROS 1842LS/37 E5 A/T T/T C/C",
+                "ACTROS 2652LS/33 A/T T/T C/C"
             ],
             "2628 / 2635-8 /2640-3-4-8 / 2650-4-8": [
                 "ACTROS 2640LS/33 A/T T/T C/C",
@@ -7335,7 +7427,13 @@
                 "ACTROS 2652LS/33 PURE 6X4 A/T T/T C/C",
                 "ACTROS 2652LS/33 RE 6X4 A/T T/T C/C",
                 "ACTROS 2663LS/33 E5 6X4 A/T T/T C/C",
-                "AROCS 2636L/57 6X2 A/T F/C C/C"
+                "AROCS 2636L/57 6X2 A/T F/C C/C",
+                "ACTROS 2645LS/33 A/T T/T C/C",
+                "ACTROS 2645LS/33 E5 A/T T/T C/C",
+                "ACTROS 2645LS/33 FS A/T T/T C/C",
+                "ACTROS 2645LS/33 PURE A/T T/T C/C",
+                "ACTROS 2663LS/33 E5 A/T T/T C/C",
+                "AROCS 2636L/57 A/T F/C C/C"
             ],
             "28 / 33 / 35 Series": [
                 "ACTROS 3340S/33 6X4 A/T T/T C/C",
@@ -7346,7 +7444,13 @@
                 "AROCS 3336K/36 6X4 A/T TIP C/C",
                 "AROCS 3340/48 6X4 A/T F/C C/C",
                 "AROCS 3345/48 6X4 A/T F/C C/C",
-                "AROCS 3352/45 6X4 A/T F/C C/C"
+                "AROCS 3352/45 6X4 A/T F/C C/C",
+                "ACTROS 3340S/33 A/T T/T C/C",
+                "ACTROS 3352S/33 A/T T/T C/C",
+                "ACTROS 3358LS/33 A/T F/C C/C",
+                "AROCS 3236B/51 A/T MIX C/C",
+                "AROCS 3345/48 A/T F/C C/C",
+                "AROCS 3352/45 A/T F/C C/C"
             ],
             "38 / 40 / 41 Series / eActros": [
                 "AROCS 4145K/51 8X4 A/T TIP C/C"
