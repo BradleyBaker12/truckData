@@ -418,6 +418,11 @@
         }
     },
     "2004": {
+        "MAN": {
+            "TGA / TGS 33 2004 - ON": [
+                "TGA 33.360 BB WW TIP C/C"
+            ]
+        },
         "Scania": {
             "P124 / R124 1997 – 2008": [
                 "R124GA 6X4NZ A/T T/T C/C",
@@ -572,6 +577,11 @@
                 "STRALIS AS750S48 TZP T/T C/",
                 "STRALIS AT440S40T/P A/T SLEEP T/T C/C",
                 "STRALIS AT700S43TZP SLEEP T/T C/C"
+            ]
+        },
+        "MAN": {
+            "TGA / TGS 33 2004 - ON": [
+                "TGA 33.360 BB WW TIP C/C"
             ]
         },
         "Mercedes-Benz": {
@@ -770,7 +780,8 @@
         },
         "MAN": {
             "15 TGM 20 Series 2006 - ON": [
-                "15.240 BL SWB F/C C/C"
+                "15.240 BL SWB F/C C/C",
+                "15.240 BL (BASELINE) F/C C/C"
             ],
             "25 / 26 Series 2006 - ON": [
                 "TGM 25.280 BLL 6X2 F/C C/C"
@@ -781,7 +792,36 @@
                 "TGM 18.240 BB TIP C/C",
                 "TGM 18.240A BB DWA F/C C/C",
                 "TGM 18.240A BB SWA F/C C/C",
-                "TGM 18.280 BB LWB F/C C/C"
+                "TGM 18.280 BB LWB F/C C/C",
+                "TGM 18.280 BB SWB F/C C/C"
+            ],
+            "TGA / TGS 33 2004 - ON": [
+                "TGA 33.360 BB M F/C C/C - (2006 - 2010)",
+                "TGA 33.360 BB WW TIP C/C - (2004 - 2010)",
+                "TGA 33.360 BBS L T/T C/C - (2006 - 2010)",
+                "TGA 33.400 BB M F/C C/C - (2006 - 2010)",
+                "TGA 33.400 BBS L T/T C/C - (2006 - 2010)",
+                "TGA 33.480 BB M F/C C/C - (2006 - 2010)",
+                "TGA 33.480 BBS L T/T C/C - (2006 - 2010)",
+                "TGA 33.480 BBS LX ABNRML T/T C/C",
+                "TGA 33.480 BBS LX T/T C/C"
+            ],
+            "TGA / TGS 34 2006 - ON": [
+                "TGA 34.350 BB MIX C/C"
+            ],
+            "TGA/TGS 18 - 19 SERIES 2004 - ON": [
+                "TGA 18.360 BLS L T/T C/C"
+            ],
+            "TGA/TGS 26/27/28 2004 - ON": [
+                "TGA 26.400 BL M ADR F/C C/C",
+                "TGA 26.400 BLS L INTARDER T/T C/C",
+                "TGA 26.400 BLS L T/T C/C",
+                "TGA 26.400 BLS LX INTARDER T/T C/C",
+                "TGA 26.480 BLS LX T/T C/C"
+            ],
+            "10 / 12 SERIES 2006 - ON": [
+                "10.180 4X2 BB F/C C/C",
+                "12.180 4X2 BB F/C C/C"
             ]
         },
         "Mercedes-Benz": {
@@ -983,7 +1023,6 @@
                 "33.330 FC 6M3 MIXER"
             ]
         },
-
         "Volkswagen": {
             "Constellation": [
                 "17.250 4X2 BB LWB EXEC SLEEP F/C C/C",
@@ -1033,7 +1072,8 @@
         },
         "MAN": {
             "15 TGM 20 Series 2006 - ON": [
-                "15.240 BL SWB F/C C/C"
+                "15.240 BL SWB F/C C/C",
+                "15.240 BL (BASELINE) F/C C/C"
             ],
             "25 / 26 Series 2006 - ON": [
                 "TGM 25.280 BLL 6X2 F/C C/C"
@@ -1044,7 +1084,37 @@
                 "TGM 18.240 BB TIP C/C",
                 "TGM 18.240A BB DWA F/C C/C",
                 "TGM 18.240A BB SWA F/C C/C",
-                "TGM 18.280 BB LWB F/C C/C"
+                "TGM 18.280 BB LWB F/C C/C",
+                "TGM 18.280 BB SWB F/C C/C"
+            ],
+            "TGA / TGS 33 2004 - ON": [
+                "TGA 33.360 BB M F/C C/C",
+                "TGA 33.360 BB WW TIP C/C",
+                "TGA 33.360 BBS L T/T C/C",
+                "TGA 33.400 BB M F/C C/C",
+                "TGA 33.400 BBS L T/T C/C",
+                "TGA 33.480 BB M F/C C/C",
+                "TGA 33.480 BBS L T/T C/C",
+                "TGA 33.480 BBS LX ABNRML T/T C/C",
+                "TGA 33.480 BBS LX T/T C/C"
+            ],
+            "TGA / TGS 34 2006 - ON": [
+                "TGA 34.350 BB MIX C/C"
+            ],
+            "TGA/TGS 18 - 19 SERIES 2004 - ON": [
+                "TGA 18.360 BLS L T/T C/C"
+            ],
+            "TGA/TGS 26/27/28 2004 - ON": [
+                "TGA 26.400 BL M ADR F/C C/C",
+                "TGA 26.400 BLS L INTARDER T/T C/C",
+                "TGA 26.400 BLS L T/T C/C",
+                "TGA 26.400 BLS LX INTARDER T/T C/C",
+                "TGA 26.480 BLS LX T/T C/C",
+                "TGA 27.400 BBS T/T C/C"
+            ],
+            "10 / 12 SERIES 2006 - ON": [
+                "10.180 4X2 BB F/C C/C",
+                "12.180 4X2 BB F/C C/C"
             ]
         },
         "MACK": {
@@ -1327,10 +1397,12 @@
         },
         "MAN": {
             "15 TGM 20 Series 2006 - ON": [
-                "15.240 BL SWB F/C C/C"
+                "15.240 BL SWB F/C C/C",
+                "15.240 BL (BASELINE) F/C C/C"
             ],
             "25 / 26 Series 2006 - ON": [
-                "TGM 25.280 BLL 6X2 F/C C/C"
+                "TGM 25.280 BLL 6X2 F/C C/C",
+                "CARGO LINE 26.280 BB TIP C/C"
             ],
             "TGM 18 Series 2006 - ON": [
                 "TGM 18.240 BB LWB F/C C/C",
@@ -1338,7 +1410,39 @@
                 "TGM 18.240 BB TIP C/C",
                 "TGM 18.240A BB DWA F/C C/C",
                 "TGM 18.240A BB SWA F/C C/C",
-                "TGM 18.280 BB LWB F/C C/C"
+                "TGM 18.280 BB LWB F/C C/C",
+                "TGM 18.280 BB SWB F/C C/C"
+            ],
+            "TGA / TGS 33 2004 - ON": [
+                "TGA 33.360 BB M F/C C/C",
+                "TGA 33.360 BB WW TIP C/C",
+                "TGA 33.360 BBS L T/T C/C",
+                "TGA 33.400 BB M F/C C/C",
+                "TGA 33.400 BBS L T/T C/C",
+                "TGA 33.480 BB M F/C C/C",
+                "TGA 33.480 BBS L T/T C/C",
+                "TGA 33.480 BBS LX ABNRML T/T C/C",
+                "TGA 33.480 BBS LX T/T C/C"
+            ],
+            "TGA / TGS 34 2006 - ON": [
+                "TGA 34.350 BB MIX C/C"
+            ],
+            "TGA/TGS 18 - 19 SERIES 2004 - ON": [
+                "TGA 18.360 BLS L T/T C/C",
+                "TGA 19.360 BLS T/T C/C"
+            ],
+            "TGA/TGS 26/27/28 2004 - ON": [
+                "TGA 26.400 BL M ADR F/C C/C",
+                "TGA 26.400 BLS L INTARDER T/T C/C",
+                "TGA 26.400 BLS L T/T C/C",
+                "TGA 26.400 BLS LX INTARDER T/T C/C",
+                "TGA 26.480 BLS LX T/T C/C",
+                "TGA 27.400 BBS T/T C/C",
+                "TGA 27.440 BBS 6X4 T/T C/C"
+            ],
+            "10 / 12 SERIES 2006 - ON": [
+                "10.180 4X2 BB F/C C/C",
+                "12.180 4X2 BB F/C C/C"
             ]
         },
         "MACK": {
@@ -1631,10 +1735,12 @@
                 "CLA 15.220 BB F/C C/C"
             ],
             "15 TGM 20 Series 2006 - ON": [
-                "15.240 BL SWB F/C C/C"
+                "15.240 BL SWB F/C C/C",
+                "15.240 BL (BASELINE) F/C C/C"
             ],
             "25 / 26 Series 2006 - ON": [
-                "TGM 25.280 BLL 6X2 F/C C/C"
+                "TGM 25.280 BLL 6X2 F/C C/C",
+                "CARGO LINE 26.280 BB TIP C/C"
             ],
             "26 SERIES/CLA 1990 - 2019": [
                 "CLA 26.280 BB 6X4 F/C C/C",
@@ -1647,7 +1753,39 @@
                 "TGM 18.240 BB TIP C/C",
                 "TGM 18.240A BB DWA F/C C/C",
                 "TGM 18.240A BB SWA F/C C/C",
-                "TGM 18.280 BB LWB F/C C/C"
+                "TGM 18.280 BB LWB F/C C/C",
+                "TGM 18.280 BB SWB F/C C/C"
+            ],
+            "TGA / TGS 33 2004 - ON": [
+                "TGA 33.360 BB M F/C C/C",
+                "TGA 33.360 BB WW TIP C/C",
+                "TGA 33.360 BBS L T/T C/C",
+                "TGA 33.400 BB M F/C C/C",
+                "TGA 33.400 BBS L T/T C/C",
+                "TGA 33.480 BB M F/C C/C",
+                "TGA 33.480 BBS L T/T C/C",
+                "TGA 33.480 BBS LX ABNRML T/T C/C",
+                "TGA 33.480 BBS LX T/T C/C"
+            ],
+            "TGA / TGS 34 2006 - ON": [
+                "TGA 34.350 BB MIX C/C"
+            ],
+            "TGA/TGS 18 - 19 SERIES 2004 - ON": [
+                "TGA 18.360 BLS L T/T C/C",
+                "TGA 19.360 BLS T/T C/C"
+            ],
+            "TGA/TGS 26/27/28 2004 - ON": [
+                "TGA 26.400 BL M ADR F/C C/C",
+                "TGA 26.400 BLS L INTARDER T/T C/C",
+                "TGA 26.400 BLS L T/T C/C",
+                "TGA 26.400 BLS LX INTARDER T/T C/C",
+                "TGA 26.480 BLS LX T/T C/C",
+                "TGA 27.400 BBS T/T C/C",
+                "TGA 27.440 BBS 6X4 T/T C/C"
+            ],
+            "10 / 12 SERIES 2006 - ON": [
+                "10.180 4X2 BB F/C C/C",
+                "12.180 4X2 BB F/C C/C"
             ]
         },
         "MACK": {
@@ -1960,14 +2098,20 @@
             ]
         },
         "MAN": {
+            "10 / 12 SERIES 2006 - ON": [
+                "10.180 4X2 BB F/C C/C",
+                "12.180 4X2 BB F/C C/C"
+            ],
             "15 SERIES 1988 - ON": [
                 "CLA 15.220 BB F/C C/C"
             ],
             "15 TGM 20 Series 2006 - ON": [
-                "15.240 BL SWB F/C C/C"
+                "15.240 BL SWB F/C C/C",
+                "15.240 BL (BASELINE) F/C C/C"
             ],
             "25 / 26 Series 2006 - ON": [
-                "TGM 25.280 BLL 6X2 F/C C/C"
+                "TGM 25.280 BLL 6X2 F/C C/C",
+                "CARGO LINE 26.280 BB TIP C/C"
             ],
             "26 SERIES/CLA 1990 - 2019": [
                 "CLA 26.280 BB 6X4 F/C C/C",
@@ -1976,23 +2120,42 @@
             ],
             "TGA / TGS 33 2004 - ON": [
                 "TGS 33.360 6X4 BB M TIP C/C",
+                "TGA 33.360 BB M F/C C/C",
                 "TGS 33.360 6X4 BBS L SLEEP T/T C/C",
+                "TGA 33.360 BB WW TIP C/C",
                 "TGS 33.360 BB M 6X4 F/C C/C",
+                "TGA 33.360 BBS L T/T C/C",
                 "TGS 33.440 6X4 BB M F/C C/C",
+                "TGA 33.400 BB M F/C C/C",
                 "TGS 33.440 6X4 BBS L SLEEP T/T C/C",
+                "TGA 33.400 BBS L T/T C/C",
                 "TGS 33.480 6X4 BB M F/C C/C",
+                "TGA 33.480 BB M F/C C/C",
                 "TGS 33.480 6X4 BBS L SLEEP T/T C/C",
-                "TGS 33.480 6X4 BBS L SLEEP T/T C/C (ABNMAL)"
+                "TGA 33.480 BBS L T/T C/C",
+                "TGS 33.480 6X4 BBS L SLEEP T/T C/C (ABNMAL)",
+                "TGA 33.480 BBS LX ABNRML T/T C/C",
+                "TGA 33.480 BBS LX T/T C/C"
             ],
             "TGA / TGS 34 2006 - ON": [
-                "TGS 34.350 BB M 8X4 MIX C/C"
+                "TGS 34.350 BB M 8X4 MIX C/C",
+                "TGA 34.350 BB MIX C/C"
             ],
             "TGA/TGS 18 - 19 Series 2004 - ON": [
-                "TGS 19.360 4X2 BLS L SLEEP ADR T/T C/C"
+                "TGS 19.360 4X2 BLS L SLEEP ADR T/T C/C",
+                "TGA 18.360 BLS L T/T C/C",
+                "TGA 19.360 BLS T/T C/C"
             ],
             "TGA/TGS 26/27/28 2004 - ON": [
                 "TGS 26.440 BLS LX 6X4 T/T C/C",
-                "TGS 26.480 6X4 BLS LX SLEEP T/T C/C"
+                "TGS 26.480 6X4 BLS LX SLEEP T/T C/C",
+                "TGA 26.400 BL M ADR F/C C/C",
+                "TGA 26.400 BLS L INTARDER T/T C/C",
+                "TGA 26.400 BLS L T/T C/C",
+                "TGA 26.400 BLS LX INTARDER T/T C/C",
+                "TGA 26.480 BLS LX T/T C/C",
+                "TGA 27.400 BBS T/T C/C",
+                "TGA 27.440 BBS 6X4 T/T C/C"
             ],
             "TGM 18 Series 2006 - ON": [
                 "TGM 18.240 BB LWB F/C C/C",
@@ -2000,7 +2163,8 @@
                 "TGM 18.240 BB TIP C/C",
                 "TGM 18.240A BB DWA F/C C/C",
                 "TGM 18.240A BB SWA F/C C/C",
-                "TGM 18.280 BB LWB F/C C/C"
+                "TGM 18.280 BB LWB F/C C/C",
+                "TGM 18.280 BB SWB F/C C/C"
             ],
             "TGS/27 Series 1999 - ON": [
                 "TGS 27.400 BBS L ADR 6X4 T/T C/C",
@@ -2378,14 +2542,20 @@
             ]
         },
         "MAN": {
+            "10 / 12 SERIES 2006 - ON": [
+                "10.180 4X2 BB F/C C/C",
+                "12.180 4X2 BB F/C C/C"
+            ],
             "15 SERIES 1988 - ON": [
                 "CLA 15.220 BB F/C C/C"
             ],
             "15 TGM 20 Series 2006 - ON": [
-                "15.240 BL SWB F/C C/C"
+                "15.240 BL SWB F/C C/C",
+                "15.240 BL (BASELINE) F/C C/C"
             ],
             "25 / 26 Series 2006 - ON": [
-                "TGM 25.280 BLL 6X2 F/C C/C"
+                "TGM 25.280 BLL 6X2 F/C C/C",
+                "CARGO LINE 26.280 BB TIP C/C"
             ],
             "26 SERIES/CLA 1990 - 2019": [
                 "CLA 26.280 BB 6X4 F/C C/C",
@@ -2406,7 +2576,8 @@
                 "TGS 34.350 BB M 8X4 MIX C/C"
             ],
             "TGA/TGS 18 - 19 Series 2004 - ON": [
-                "TGS 19.360 4X2 BLS L SLEEP ADR T/T C/C"
+                "TGS 19.360 4X2 BLS L SLEEP ADR T/T C/C",
+                "TGA 18.360 BLS L T/T C/C"
             ],
             "TGA/TGS 26/27/28 2004 - ON": [
                 "TGS 26.440 BLS LX 6X4 T/T C/C",
@@ -2418,7 +2589,8 @@
                 "TGM 18.240 BB TIP C/C",
                 "TGM 18.240A BB DWA F/C C/C",
                 "TGM 18.240A BB SWA F/C C/C",
-                "TGM 18.280 BB LWB F/C C/C"
+                "TGM 18.280 BB LWB F/C C/C",
+                "TGM 18.280 BB SWB F/C C/C"
             ],
             "TGS/27 Series 1999 - ON": [
                 "TGS 27.400 BBS L ADR 6X4 T/T C/C",
@@ -2809,14 +2981,20 @@
             ]
         },
         "MAN": {
+            "10 / 12 SERIES 2006 - ON": [
+                "10.180 4X2 BB F/C C/C",
+                "12.180 4X2 BB F/C C/C"
+            ],
             "15 SERIES 1988 - ON": [
                 "CLA 15.220 BB F/C C/C"
             ],
             "15 TGM 20 Series 2006 - ON": [
-                "15.240 BL SWB F/C C/C"
+                "15.240 BL SWB F/C C/C",
+                "15.240 BL (BASELINE) F/C C/C"
             ],
             "25 / 26 Series 2006 - ON": [
-                "TGM 25.280 BLL 6X2 F/C C/C"
+                "TGM 25.280 BLL 6X2 F/C C/C",
+                "CARGO LINE 26.280 BB TIP C/C"
             ],
             "26 SERIES/CLA 1990 - 2019": [
                 "CLA 26.280 BB 6X4 F/C C/C",
@@ -2837,7 +3015,8 @@
                 "TGS 34.350 BB M 8X4 MIX C/C"
             ],
             "TGA/TGS 18 - 19 Series 2004 - ON": [
-                "TGS 19.360 4X2 BLS L SLEEP ADR T/T C/C"
+                "TGS 19.360 4X2 BLS L SLEEP ADR T/T C/C",
+                "TGA 18.360 BLS L T/T C/C"
             ],
             "TGA/TGS 26/27/28 2004 - ON": [
                 "TGS 26.440 BLS LX 6X4 T/T C/C"
@@ -2848,7 +3027,8 @@
                 "TGM 18.240 BB TIP C/C",
                 "TGM 18.240A BB DWA F/C C/C",
                 "TGM 18.240A BB SWA F/C C/C",
-                "TGM 18.280 BB LWB F/C C/C"
+                "TGM 18.280 BB LWB F/C C/C",
+                "TGM 18.280 BB SWB F/C C/C"
             ],
             "TGS/27 Series 1999 - ON": [
                 "TGS 27.400 BBS L ADR 6X4 T/T C/C",
@@ -3311,7 +3491,8 @@
                 "CLA 15.220 BB F/C C/C"
             ],
             "15 TGM 20 Series 2006 - ON": [
-                "15.240 BL SWB F/C C/C"
+                "15.240 BL SWB F/C C/C",
+                "15.240 BL (BASELINE) F/C C/C"
             ],
             "25 / 26 Series 2006 - ON": [
                 "TGM 25.280 BLL 6X2 F/C C/C"
@@ -3347,7 +3528,8 @@
                 "TGM 18.240 BB TIP C/C",
                 "TGM 18.240A BB DWA F/C C/C",
                 "TGM 18.240A BB SWA F/C C/C",
-                "TGM 18.280 BB LWB F/C C/C"
+                "TGM 18.280 BB LWB F/C C/C",
+                "TGM 18.280 BB SWB F/C C/C"
             ],
             "TGS/27 Series 1999 - ON": [
                 "TGS 27.400 BBS L ADR 6X4 T/T C/C",
@@ -3821,7 +4003,8 @@
                 "CLA 15.220 BB F/C C/C"
             ],
             "15 TGM 20 Series 2006 - ON": [
-                "15.240 BL SWB F/C C/C"
+                "15.240 BL SWB F/C C/C",
+                "15.240 BL (BASELINE) F/C C/C"
             ],
             "25 / 26 Series 2006 - ON": [
                 "TGM 25.280 BLL 6X2 F/C C/C"
@@ -3857,7 +4040,8 @@
                 "TGM 18.240 BB TIP C/C",
                 "TGM 18.240A BB DWA F/C C/C",
                 "TGM 18.240A BB SWA F/C C/C",
-                "TGM 18.280 BB LWB F/C C/C"
+                "TGM 18.280 BB LWB F/C C/C",
+                "TGM 18.280 BB SWB F/C C/C"
             ],
             "TGS/27 Series 1999 - ON": [
                 "TGS 27.400 BBS L ADR 6X4 T/T C/C",
@@ -4473,7 +4657,8 @@
                 "TGM 18.240 BB TIP C/C",
                 "TGM 18.240A BB DWA F/C C/C",
                 "TGM 18.240A BB SWA F/C C/C",
-                "TGM 18.280 BB LWB F/C C/C"
+                "TGM 18.280 BB LWB F/C C/C",
+                "TGM 18.280 BB SWB F/C C/C"
             ],
             "TGS/27 Series 1999 - ON": [
                 "TGS 27.400 BBS L ADR 6X4 T/T C/C",
@@ -5000,7 +5185,8 @@
                 "TGM 18.240 BB TIP C/C",
                 "TGM 18.240A BB DWA F/C C/C",
                 "TGM 18.240A BB SWA F/C C/C",
-                "TGM 18.280 BB LWB F/C C/C"
+                "TGM 18.280 BB LWB F/C C/C",
+                "TGM 18.280 BB SWB F/C C/C"
             ],
             "TGS/27 Series 1999 - ON": [
                 "TGS 27.400 BBS L ADR 6X4 T/T C/C",
