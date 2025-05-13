@@ -143,6 +143,16 @@
                 "FVR 900 TURBO TIP C/C",
                 "FVZ 1400 TURBO F/C C/C"
             ]
+        },
+        "International": {
+            "9400 / 9670 /  9700 / 9800": [
+                "9800 SLA 6x4 RIGID F/C C/C",
+                "9800i SBA 6X4 T/T C/C"
+            ],
+            "Model6511": [
+                "9800 SLA 6x4 RIGID F/C C/C",
+                "9800i SBA 6X4 T/T C/C"
+            ]
         }
     },
     "2001": {
@@ -205,6 +215,16 @@
                 "FTR 800 TURBO F/C C/C",
                 "FVR 900 TURBO TIP C/C",
                 "FVZ 1400 TURBO F/C C/C"
+            ]
+        },
+        "International": {
+            "9400 / 9670 /  9700 / 9800": [
+                "9800 SLA 6x4 RIGID F/C C/C",
+                "9800i SBA 6X4 T/T C/C"
+            ],
+            "Model6511": [
+                "9800 SLA 6x4 RIGID F/C C/C",
+                "9800i SBA 6X4 T/T C/C"
             ]
         }
     },
@@ -302,6 +322,12 @@
                 "FVR 900 TURBO TIP C/C",
                 "FVZ 1400 TURBO F/C C/C",
                 "GVR 2300 TURBO T/T C/C"
+            ]
+        },
+        "International": {
+            "9400 / 9670 /  9700 / 9800": [
+                "9800 SLA 6x4 RIGID F/C C/C",
+                "9800i SBA 6X4 T/T C/C"
             ]
         }
     },
@@ -414,6 +440,16 @@
                 "FVR 900 TURBO TIP C/C",
                 "FVZ 1400 TURBO F/C C/C",
                 "GVR 2300 TURBO T/T C/C"
+            ]
+        },
+        "International": {
+            "9400 / 9670 /  9700 / 9800": [
+                "9800 SLA 6x4 RIGID F/C C/C",
+                "9800i SBA 6X4 T/T C/C"
+            ],
+            "Model6511": [
+                "9800 SLA 6x4 RIGID F/C C/C",
+                "9800i SBA 6X4 T/T C/C"
             ]
         }
     },
@@ -555,6 +591,25 @@
                 "FVR 900 TURBO TIP C/C",
                 "FVZ 1400 TURBO F/C C/C",
                 "GVR 2300 TURBO T/T C/C"
+            ]
+        },
+        "International": {
+            "7400 / 7600": [
+                "7400 6X4 TIP C/C",
+                "7400 ER 6X4 MIX C/C",
+                "7400 REFUSE 6X4 REF C/C",
+                "7600 HIGHWAY 6X4 T/T C/C",
+                "7600 HIGHWAY A/T 6X4 T/T C/C",
+                "7600 HIGHWAY ON/OFF 6X4 A/T T/T C/C",
+                "7600 HIGHWAY SLEEPER 6X4 A/T T/T C/C"
+            ],
+            "9400 / 9670 /  9700 / 9800": [
+                "9800 SLA 6x4 RIGID F/C C/C",
+                "9800i SBA 6X4 T/T C/C"
+            ],
+            "Model6511": [
+                "9800 SLA 6x4 RIGID F/C C/C",
+                "9800i SBA 6X4 T/T C/C"
             ]
         }
     },
@@ -754,6 +809,38 @@
                 "FVR 900 TURBO TIP C/C",
                 "FVZ 1400 TURBO F/C C/C",
                 "GVR 2300 TURBO T/T C/C"
+            ]
+        },
+        "International": {
+            "7400 / 7600": [
+                "7400 6X4 TIP C/C",
+                "7400 ER 6X4 MIX C/C",
+                "7400 REFUSE 6X4 REF C/C",
+                "7600 HIGHWAY 6X4 T/T C/C",
+                "7600 HIGHWAY A/T 6X4 T/T C/C",
+                "7600 HIGHWAY ON/OFF 6X4 A/T T/T C/C",
+                "7600 HIGHWAY SLEEPER 6X4 A/T T/T C/C"
+            ],
+            "9400 / 9670 /  9700 / 9800": [
+                "9800 SLA 6x4 RIGID F/C C/C",
+                "9800i SBA 6X4 T/T C/C",
+                "9800 8X4 RIGID F/C C/C",
+                "9800e 6X4 T/T C/C"
+            ],
+            "Model6511": [
+                "9800 SLA 6x4 RIGID F/C C/C",
+                "9800i SBA 6X4 T/T C/C",
+                "9800 8X4 RIGID F/C C/C",
+                "9800e 6X4 T/T C/C"
+            ]
+        },
+        "Freightliner": {
+            "ARGOSY": [
+                "ARGOSY 90 CATERPILLAR 515 T/T C/C",
+                "ARGOSY 90 CUMMINS 500 T/T C/C",
+                "ARGOSY 90 CUMMINS 530 T/T C/C",
+                "ARGOSY 90 DETROIT 440 T/T C/C",
+                "ARGOSY 90 DETROIT 530 T/T C/C"
             ]
         }
     },
@@ -1042,6 +1129,42 @@
                 "FVZ 1400 TURBO F/C C/C",
                 "GVR 2300 TURBO T/T C/C",
                 "FVZ 1600 T REF C/C"
+            ]
+        },
+        "International": {
+            "7400 / 7600": [
+                "7400 6X4 TIP C/C",
+                "7400 ER 6X4 MIX C/C",
+                "7400 REFUSE 6X4 REF C/C",
+                "7600 HIGHWAY 6X4 T/T C/C",
+                "7600 HIGHWAY A/T 6X4 T/T C/C",
+                "7600 HIGHWAY ON/OFF 6X4 A/T T/T C/C",
+                "7600 HIGHWAY ON/OFF 6X4 T/T C/C",
+                "7600 HIGHWAY SLEEPER 6X4 A/T T/T C/C",
+                "7600 HIGHWAY SLEEPER 6X4 T/T C/C"
+            ],
+            "9400 / 9670 /  9700 / 9800": [
+                "9800 SLA 6x4 RIGID F/C C/C",
+                "9800i SBA 6X4 T/T C/C",
+                "9800 8X4 RIGID F/C C/C",
+                "9800e 6X4 T/T C/C",
+                "9800 SBA 6X4 A/T T/T C/C"
+            ],
+            "Model6511": [
+                "9800 SLA 6x4 RIGID F/C C/C",
+                "9800i SBA 6X4 T/T C/C",
+                "9800 8X4 RIGID F/C C/C",
+                "9800e 6X4 T/T C/C",
+                "9800 SBA 6X4 A/T T/T C/C"
+            ]
+        },
+        "Freightliner": {
+            "ARGOSY": [
+                "ARGOSY 90 CATERPILLAR 515 T/T C/C",
+                "ARGOSY 90 CUMMINS 500 T/T C/C",
+                "ARGOSY 90 CUMMINS 530 T/T C/C",
+                "ARGOSY 90 DETROIT 440 T/T C/C",
+                "ARGOSY 90 DETROIT 530 T/T C/C"
             ]
         }
     },
@@ -1357,6 +1480,46 @@
                 "FVZ 1400 TURBO F/C C/C",
                 "GVR 2300 TURBO T/T C/C",
                 "FVZ 1600 T REF C/C"
+            ]
+        },
+        "International": {
+            "7400 / 7600": [
+                "7400 6X4 TIP C/C",
+                "7400 ER 6X4 MIX C/C",
+                "7400 REFUSE 6X4 REF C/C",
+                "7600 HIGHWAY 6X4 T/T C/C",
+                "7600 HIGHWAY A/T 6X4 T/T C/C",
+                "7600 HIGHWAY ON/OFF 6X4 A/T T/T C/C",
+                "7600 HIGHWAY ON/OFF 6X4 T/T C/C",
+                "7600 HIGHWAY SLEEPER 6X4 A/T T/T C/C",
+                "7600 HIGHWAY SLEEPER 6X4 T/T C/C"
+            ],
+            "9400 / 9670 /  9700 / 9800": [
+                "9800 SLA 6x4 RIGID F/C C/C",
+                "9800i SBA 6X4 T/T C/C",
+                "9800 8X4 RIGID F/C C/C",
+                "9800e 6X4 T/T C/C",
+                "9800 SBA 6X4 A/T T/T C/C"
+            ],
+            "Model6511": [
+                "9800 SLA 6x4 RIGID F/C C/C",
+                "9800i SBA 6X4 T/T C/C",
+                "9800 8X4 RIGID F/C C/C",
+                "9800e 6X4 T/T C/C",
+                "9800 SBA 6X4 A/T T/T C/C"
+            ]
+        },
+        "Freightliner": {
+            "ARGOSY": [
+                "ARGOSY 90 CATERPILLAR 515 T/T C/C",
+                "ARGOSY 90 CUMMINS 500 T/T C/C",
+                "ARGOSY 90 CUMMINS 530 T/T C/C",
+                "ARGOSY 90 DETROIT 440 T/T C/C",
+                "ARGOSY 90 DETROIT 530 T/T C/C",
+                "ARGOSY 90 CATEPILLAR 440 T/T C/C"
+            ],
+            "COLUMBIA": [
+                "COLUMBIA 112-34 T/T C/C"
             ]
         }
     },
@@ -1691,6 +1854,44 @@
                 "FVZ 1400 TURBO F/C C/C",
                 "GVR 2300 TURBO T/T C/C",
                 "FVZ 1600 T REF C/C"
+            ]
+        },
+        "International": {
+            "7400 / 7600": [
+                "7400 6X4 TIP C/C",
+                "7400 ER 6X4 MIX C/C",
+                "7400 REFUSE 6X4 REF C/C",
+                "7600 HIGHWAY 6X4 T/T C/C",
+                "7600 HIGHWAY A/T 6X4 T/T C/C",
+                "7600 HIGHWAY ON/OFF 6X4 A/T T/T C/C",
+                "7600 HIGHWAY ON/OFF 6X4 T/T C/C",
+                "7600 HIGHWAY SLEEPER 6X4 A/T T/T C/C",
+                "7600 HIGHWAY SLEEPER 6X4 T/T C/C"
+            ],
+            "9400 / 9670 /  9700 / 9800": [
+                "9800i SBA 6X4 T/T C/C",
+                "9800 8X4 RIGID F/C C/C",
+                "9800e 6X4 T/T C/C",
+                "9800 SBA 6X4 A/T T/T C/C"
+            ],
+            "Model6511": [
+                "9800i SBA 6X4 T/T C/C",
+                "9800 8X4 RIGID F/C C/C",
+                "9800e 6X4 T/T C/C",
+                "9800 SBA 6X4 A/T T/T C/C"
+            ]
+        },
+        "Freightliner": {
+            "ARGOSY": [
+                "ARGOSY 90 CATERPILLAR 515 T/T C/C",
+                "ARGOSY 90 CUMMINS 500 T/T C/C",
+                "ARGOSY 90 CUMMINS 530 T/T C/C",
+                "ARGOSY 90 DETROIT 440 T/T C/C",
+                "ARGOSY 90 DETROIT 530 T/T C/C",
+                "ARGOSY 90 CATEPILLAR 440 T/T C/C"
+            ],
+            "COLUMBIA": [
+                "COLUMBIA 112-34 T/T C/C"
             ]
         }
     },
@@ -2036,6 +2237,44 @@
         "Warrior": {
             "DFL 375 - 420": [
                 "KINLAND DFL 420 T/T C/C"
+            ]
+        },
+        "International": {
+            "7400 / 7600": [
+                "7400 6X4 TIP C/C",
+                "7400 ER 6X4 MIX C/C",
+                "7400 REFUSE 6X4 REF C/C",
+                "7600 HIGHWAY 6X4 T/T C/C",
+                "7600 HIGHWAY A/T 6X4 T/T C/C",
+                "7600 HIGHWAY ON/OFF 6X4 A/T T/T C/C",
+                "7600 HIGHWAY ON/OFF 6X4 T/T C/C",
+                "7600 HIGHWAY SLEEPER 6X4 A/T T/T C/C",
+                "7600 HIGHWAY SLEEPER 6X4 T/T C/C"
+            ],
+            "9400 / 9670 /  9700 / 9800": [
+                "9800i SBA 6X4 T/T C/C",
+                "9800 8X4 RIGID F/C C/C",
+                "9800e 6X4 T/T C/C",
+                "9800 SBA 6X4 A/T T/T C/C"
+            ],
+            "Model6511": [
+                "9800i SBA 6X4 T/T C/C",
+                "9800 8X4 RIGID F/C C/C",
+                "9800e 6X4 T/T C/C",
+                "9800 SBA 6X4 A/T T/T C/C"
+            ]
+        },
+        "Freightliner": {
+            "ARGOSY": [
+                "ARGOSY 90 CATERPILLAR 515 T/T C/C",
+                "ARGOSY 90 CUMMINS 500 T/T C/C",
+                "ARGOSY 90 CUMMINS 530 T/T C/C",
+                "ARGOSY 90 DETROIT 440 T/T C/C",
+                "ARGOSY 90 DETROIT 530 T/T C/C",
+                "ARGOSY 90 CATEPILLAR 440 T/T C/C"
+            ],
+            "COLUMBIA": [
+                "COLUMBIA 112-34 T/T C/C"
             ]
         }
     },
@@ -2479,6 +2718,34 @@
             "DFL 375 - 420": [
                 "KINLAND DFL 420 T/T C/C"
             ]
+        },
+        "International": {
+            "7400 / 7600": [
+                "7600 HIGHWAY SLEEPER 6X4 T/T C/C"
+            ],
+            "9400 / 9670 /  9700 / 9800": [
+                "9800i SBA 6X4 T/T C/C",
+                "9800 8X4 RIGID F/C C/C",
+                "9800e 6X4 T/T C/C"
+            ],
+            "Model6511": [
+                "9800i SBA 6X4 T/T C/C",
+                "9800 8X4 RIGID F/C C/C",
+                "9800e 6X4 T/T C/C"
+            ]
+        },
+        "Freightliner": {
+            "ARGOSY": [
+                "ARGOSY 90 CATERPILLAR 515 T/T C/C",
+                "ARGOSY 90 CUMMINS 500 T/T C/C",
+                "ARGOSY 90 CUMMINS 530 T/T C/C",
+                "ARGOSY 90 DETROIT 440 T/T C/C",
+                "ARGOSY 90 DETROIT 530 T/T C/C",
+                "ARGOSY 90 CATEPILLAR 440 T/T C/C"
+            ],
+            "COLUMBIA": [
+                "COLUMBIA 112-34 T/T C/C"
+            ]
         }
     },
     "2011": {
@@ -2901,6 +3168,34 @@
             ],
             "DFL 375 - 420": [
                 "KINLAND DFL 420 T/T C/C"
+            ]
+        },
+        "International": {
+            "7400 / 7600": [
+                "7600 HIGHWAY SLEEPER 6X4 T/T C/C"
+            ],
+            "9400 / 9670 /  9700 / 9800": [
+                "9800i SBA 6X4 T/T C/C",
+                "9800 8X4 RIGID F/C C/C",
+                "9800e 6X4 T/T C/C"
+            ],
+            "Model6511": [
+                "9800i SBA 6X4 T/T C/C",
+                "9800 8X4 RIGID F/C C/C",
+                "9800e 6X4 T/T C/C"
+            ]
+        },
+        "Freightliner": {
+            "ARGOSY": [
+                "ARGOSY 90 CATERPILLAR 515 T/T C/C",
+                "ARGOSY 90 CUMMINS 500 T/T C/C",
+                "ARGOSY 90 CUMMINS 530 T/T C/C",
+                "ARGOSY 90 DETROIT 440 T/T C/C",
+                "ARGOSY 90 DETROIT 530 T/T C/C",
+                "ARGOSY 90 CATEPILLAR 440 T/T C/C"
+            ],
+            "COLUMBIA": [
+                "COLUMBIA 112-34 T/T C/C"
             ]
         }
     },
@@ -3390,6 +3685,21 @@
                 "KINLAND DFL 375 T/T C/C",
                 "KINLAND DFL 420 T/T C/C"
             ]
+        },
+        "International": {
+            "7400 / 7600": [
+                "7600 HIGHWAY SLEEPER 6X4 T/T C/C"
+            ],
+            "9400 / 9670 /  9700 / 9800": [
+                "9800i SBA 6X4 T/T C/C",
+                "9800 8X4 RIGID F/C C/C",
+                "9800e 6X4 T/T C/C"
+            ],
+            "Model6511": [
+                "9800i SBA 6X4 T/T C/C",
+                "9800 8X4 RIGID F/C C/C",
+                "9800e 6X4 T/T C/C"
+            ]
         }
     },
     "2013": {
@@ -3870,6 +4180,19 @@
             "DFL 375 - 420": [
                 "KINLAND DFL 375 T/T C/C",
                 "KINLAND DFL 420 T/T C/C"
+            ]
+        },
+        "International": {
+            "7400 / 7600": [
+                "7600 HIGHWAY SLEEPER 6X4 T/T C/C"
+            ],
+            "9400 / 9670 /  9700 / 9800": [
+                "9800i SBA 6X4 T/T C/C",
+                "9800e 6X4 T/T C/C"
+            ],
+            "Model6511": [
+                "9800i SBA 6X4 T/T C/C",
+                "9800e 6X4 T/T C/C"
             ]
         }
     },
@@ -4402,6 +4725,11 @@
             "DFL 375 - 420": [
                 "KINLAND DFL 375 T/T C/C",
                 "KINLAND DFL 420 T/T C/C"
+            ]
+        },
+        "International": {
+            "7400 / 7600": [
+                "7600 HIGHWAY SLEEPER 6X4 T/T C/C"
             ]
         }
     },
