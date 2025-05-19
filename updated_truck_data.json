@@ -9448,6 +9448,17 @@
                 "JH6 35.420FD 8X4 TIP"
             ]
         },
+        "HYUNDAI": {
+            "EX-8":[
+                "EX-8 SWB F/C C/C",
+                "EX-8 LWB F/C C/C",
+                "EX-8 SWB A/C F/C C/C",
+                "EX-8 LWB A/C F/C C/C",
+                "EX-8 F/C D/S",
+                "EX-8 A/C F/C D/S",
+                "EX-8 SWB TIP",
+            ]
+        },
         "JAC": {
             "N140": [
                 "N140 9T 4X2 F/C C/C",
