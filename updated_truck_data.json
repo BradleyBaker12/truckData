@@ -3128,8 +3128,7 @@
       ]
     },
     "Scania": {
-      "P / R / G Series 2002 - 2019": [
-        "G460 CA6X4MSZ T/T C/C",
+      "P / R Series 2002 - 2019": [
         "P250 DB4X2MSZ F/C C/C",
         "P250 LB6X2MSA F/C C/C",
         "P310 CB6X4HHZ MIX C/C",
@@ -3142,7 +3141,10 @@
         "R500 LA6X4MHZ/MSZ T/T C/C",
         "R500 LA6X4MSA T/T C/C",
         "R580 LA6X4MHZ/MSZ T/T C/C",
-        "R620 LA6X4MSZ T/T C/C",
+        "R620 LA6X4MSZ T/T C/C"
+      ],
+      "G Series 2002 - 2019": [
+        "G460 CA6X4MSZ T/T C/C",
         "G340 4X2 T/T C/C",
         "G360 4X2 T/T C/C",
         "G370 4X2 T/T C/C",
