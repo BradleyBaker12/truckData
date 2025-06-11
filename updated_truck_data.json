@@ -1415,7 +1415,15 @@
       ]
     },
     "ISUZU": {
-      "70 SERIES": ["70-460 6X4 T/T C/C"]
+      "70 SERIES": ["70-460 6X4 T/T C/C"],
+      "F/ GVR SERIES": [
+        "FRR 500 F/C C/C",
+        "FSR 700 F/C C/C",
+        "FTR 800 F/C C/C",
+        "FTR 800 TURBO F/C C/C",
+        "FVR 900 TURBO TIP C/C",
+        "FVZ 1400 TURBO F/C C/C"
+      ]
     },
     "MAN": {
       "15 TGM 20 Series 2006 - ON": [
@@ -3134,7 +3142,19 @@
         "R500 LA6X4MHZ/MSZ T/T C/C",
         "R500 LA6X4MSA T/T C/C",
         "R580 LA6X4MHZ/MSZ T/T C/C",
-        "R620 LA6X4MSZ T/T C/C"
+        "R620 LA6X4MSZ T/T C/C",
+        "G340 4X2 T/T C/C",
+        "G360 4X2 T/T C/C",
+        "G370 4X2 T/T C/C",
+        "G380 4X2 T/T C/C",
+        "G400 4X2 T/T C/C",
+        "G410 4X2 T/T C/C",
+        "G420 8X8 T/T C/C",
+        "G440 4X2 T/T C/C",
+        "G450 4X2 T/T C/C",
+        "G480 4X2 T/T C/C",
+        "G490 4X2 T/T C/C",
+        "G500 4X2 T/T C/C"
       ]
     },
     "Tata": {
