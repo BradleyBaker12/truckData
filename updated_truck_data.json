@@ -417,6 +417,23 @@
         "9800i SBA 6X4 T/T C/C"
       ],
       "Model6511": ["9800 SLA 6x4 RIGID F/C C/C", "9800i SBA 6X4 T/T C/C"]
+    },
+    "Mercedes-Benz": {
+      "Actros": [
+        "Actros 3331 6x4 NA T/T C/C",
+        "Actros 3340 6x4 NA T/T C/C",
+        "Actros 3340 6x4 NZ A/T T/T C/C",
+        "Actros 3348 6x4 NZ A/T T/T C/C",
+        "Actros 14 Ton Rollback 6x2 R/B C/C"
+      ],
+      "Axor": [
+        "Axor 3340S/33 6x4 NZ M/T T/T C/C",
+        "Axor 1840 4x2 NA M/T T/T C/C"
+      ],
+      "Atego": [
+        "Atego 1317 4x2 NA M/T R/B C/C",
+        "Atego 1517 4x2 NA M/T D/S C/C"
+      ]
     }
   },
   "2004": {
