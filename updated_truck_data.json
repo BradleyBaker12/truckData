@@ -1,4 +1,20 @@
 {
+  "1996": {
+    "Mercedes-Benz": {
+      "Actros": [
+        "Actros 2535",
+        "Actros 2535 LS 6x2"
+      ],
+      "Powerliner": [
+        "Powerliner 2535",
+        "Powerliner 2535 Hooklift Crane",
+        "Powerliner 2535 Flatbed/Dropside"
+      ],
+      "SK 2535": [
+        "SK 2535 K 6x4 tipper"
+      ]
+    }
+  },
   "1997": {
     "Scania": {
       "P124 / R124 1997 – 2008": ["P124GA 400 T/T C/C"],
