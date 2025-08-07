@@ -1,18 +1,13 @@
 {
   "1996": {
     "Mercedes-Benz": {
-      "Actros": [
-        "Actros 2535",
-        "Actros 2535 LS 6x2"
-      ],
+      "Actros": ["Actros 2535", "Actros 2535 LS 6x2"],
       "Powerliner": [
         "Powerliner 2535",
         "Powerliner 2535 Hooklift Crane",
         "Powerliner 2535 Flatbed/Dropside"
       ],
-      "SK 2535": [
-        "SK 2535 K 6x4 tipper"
-      ]
+      "SK 2535": ["SK 2535 K 6x4 tipper"]
     }
   },
   "1997": {
@@ -324,12 +319,7 @@
       ]
     },
     "MAN": {
-      "F2000": [
-        "F2000 19.310",
-        "F2000 19.360",
-        "F2000 19.410",
-        "F2000 27.464"
-      ]
+      "F2000": ["F2000 19.310", "F2000 19.360", "F2000 19.410", "F2000 27.464"]
     }
   },
   "2003": {
@@ -1047,7 +1037,8 @@
     },
     "FAW": {
       "28 SERIES": ["28.280 FD TIP C/C"],
-      "33 SERIES": ["33.330 FC 6M3 MIXER"]
+      "33 SERIES": ["33.330 FC 6M3 MIXER"],
+      "8 SERIES": ["8.140 FL-MT"]
     },
     "Volkswagen": {
       "Constellation": [
@@ -8517,6 +8508,7 @@
       ]
     },
     "FAW": {
+      "8 SERIES": ["8.140 FL-MT"],
       "15 SERIES": [
         "15.180 FL 8 TON F/C C/C",
         "15.180FD TIP C/C",
