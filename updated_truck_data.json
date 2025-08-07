@@ -8508,13 +8508,13 @@
       ]
     },
     "FAW": {
-      "8 SERIES": ["8.140 FL-MT"],
       "15 SERIES": [
         "15.180 FL 8 TON F/C C/C",
         "15.180FD TIP C/C",
         "15.180FT 4X2 C/C",
         "JK6 15.220FL 4X2 C/C"
       ],
+      "8 SERIES": ["8.140 FL-MT"],
       "16 SERIES": ["16.240 FD 4X2 TIP", "16.240 FT 4X2 T/T"],
       "28 SERIES": [
         "J5N 28.290FD TIP C/C",
