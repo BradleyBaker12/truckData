@@ -4314,6 +4314,7 @@
       "Columbia": ["COLUMBIA CL 112-34 T/T C/C"]
     },
     "FAW": {
+      "8 SERIES": ["8.140 FL-MT"],
       "15 SERIES": [
         "15.180 FL 8 TON F/C C/C",
         "15.180FD TIP C/C",
@@ -4775,6 +4776,7 @@
       "Columbia": ["COLUMBIA CL 112-34 T/T C/C"]
     },
     "FAW": {
+      "8 SERIES": ["8.140 FL-MT"],
       "15 SERIES": [
         "15.180 FL 8 TON F/C C/C",
         "15.180FD TIP C/C",
@@ -5246,6 +5248,7 @@
       "Columbia": ["COLUMBIA CL 112-34 T/T C/C"]
     },
     "FAW": {
+      "8 SERIES": ["8.140 FL-MT"],
       "15 SERIES": [
         "15.180 FL 8 TON F/C C/C",
         "15.180FD TIP C/C",
@@ -5754,6 +5757,7 @@
       ]
     },
     "FAW": {
+      "8 SERIES": ["8.140 FL-MT"],
       "15 SERIES": [
         "15.180 FL 8 TON F/C C/C",
         "15.180FD TIP C/C",
@@ -6306,6 +6310,10 @@
       ]
     },
     "FAW": {
+      "6 SERIES": [
+        "6.130 FL-MT"
+      ],
+      "8 SERIES": ["8.140 FL-MT"],
       "15 SERIES": [
         "15.180 FL 8 TON F/C C/C",
         "15.180FD TIP C/C",
@@ -6885,6 +6893,10 @@
       ]
     },
     "FAW": {
+      "6 SERIES": [
+        "6.130 FL-MT"
+      ],
+      "8 SERIES": ["8.140 FL-MT"],
       "15 SERIES": [
         "15.180 FL 8 TON F/C C/C",
         "15.180FD TIP C/C",
@@ -7776,6 +7788,13 @@
       ]
     },
     "FAW": {
+      "6 SERIES": [
+        "6.130 FL-MT"
+      ],
+      "8 SERIES": [
+        "8.140 FL-MT",
+        "8.140 FL-AT"
+      ],
       "15 Series": [
         "15.180 FL 8 TON F/C C/C",
         "15.180FD TIP C/C",
@@ -7902,6 +7921,13 @@
       ]
     },
     "FAW": {
+      "6 SERIES": [
+        "6.130 FL-MT"
+      ],
+      "8 SERIES": [
+        "8.140 FL-MT",
+        "8.140 FL-AT"
+      ],
       "15 SERIES": [
         "15.180 FL 8 TON F/C C/C",
         "15.180FD TIP C/C",
@@ -8508,6 +8534,14 @@
       ]
     },
     "FAW": {
+      "6 SERIES": [
+        "6.130 FL-MT"
+      ],
+      "8 SERIES": [
+        "8.140 FL-MT",
+        "8.140 FL-AT",
+        "8.140 FL-AMT"
+      ],
       "15 SERIES": [
         "15.180 FL 8 TON F/C C/C",
         "15.180FD TIP C/C",
@@ -9125,6 +9159,15 @@
       ]
     },
     "FAW": {
+      "6 SERIES": [
+        "6.130 FL-MT"
+      ],
+      "8 SERIES": [
+        "8.140 FL-MT",
+        "8.140 FL-AT",
+        "8.140 FL-AMT",
+        "8.140 FL"
+      ],
       "15 SERIES": [
         "15.180 FL 8 TON F/C C/C",
         "15.180FD TIP C/C",
@@ -9417,6 +9460,19 @@
         "FMX (5) 440 6X4 SLEEP H/RED A/T T/T C/C",
         "FMX (5) 480 6X4 SLEEP A/T T/T C/C",
         "FMX (5) 480 6X4 SLEEP H/RED A/T T/T C/C"
+      ]
+    }
+  },
+  "2025": {
+    "FAW": {
+      "6 SERIES": [
+        "6.130 FL-MT"
+      ],
+      "8 SERIES": [
+        "8.140 FL-MT",
+        "8.140 FL-AT",
+        "8.140 FL-AMT",
+        "8.140 FL"
       ]
     }
   }
