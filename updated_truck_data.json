@@ -7815,7 +7815,9 @@
         "J5N 33.340FC 6X4 6M3 MIXER",
         "J5N 33.340FD 6X4 H/RED TIP",
         "33.330 FC 6M3 MIXER",
-        "J5N 33.420FT 6X4 T/T C/C"
+        "J5N 33.420FT 6X4 T/T C/C",
+        "JH6 33.420FT",
+        "JH6 33.460FT"
       ],
       "35 Series": ["J5N 35.340 FC 8M3 MIXER", "J5N 35.340 FD TIP C/C"]
     },
@@ -7948,7 +7950,9 @@
         "J5N 33.340FC 6X4 6M3 MIXER",
         "J5N 33.340FD 6X4 H/RED TIP",
         "JH6 33.420FT T/T C/C",
-        "J5N 33.420FT 6X4 T/T C/C"
+        "J5N 33.420FT 6X4 T/T C/C",
+        "JH6 33.420FT",
+        "JH6 33.460FT"
       ],
       "35 SERIES": ["J5N 35.340 FC 8M3 MIXER", "J5N 35.340 FD TIP C/C"]
     },
@@ -8566,7 +8570,9 @@
         "J5N 33.340FD 6X4 H/RED TIP",
         "JH6 33.390FD 6X4 TIP",
         "JH6 33.390FT T/T C/C",
-        "JH6 33.420FT T/T C/C"
+        "JH6 33.420FT T/T C/C",
+        "JH6 33.420FT",
+        "JH6 33.460FT"
       ],
       "35 SERIES": [
         "J5N 35.340 FC 8M3 MIXER",
@@ -9201,7 +9207,9 @@
         "JH6 33.390FD 6X4 TIP",
         "JH6 33.390FT T/T C/C",
         "JH6 33.420FT T/T C/C",
-        "JH6 33.500FT T/T C/C"
+        "JH6 33.500FT T/T C/C",
+        "JH6 33.420FT",
+        "JH6 33.460FT"
       ],
       "35 SERIES": [
         "J5N 35.340 FC 8M3 MIXER",
@@ -9476,6 +9484,10 @@
         "8.140 FL-AT",
         "8.140 FL-AMT",
         "8.140 FL"
+      ],
+      "33 SERIES": [
+        "JH6 33.420FT",
+        "JH6 33.460FT"
       ]
     }
   }
