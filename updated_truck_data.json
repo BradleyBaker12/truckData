@@ -1037,7 +1037,9 @@
     },
     "FAW": {
       "28 SERIES": ["28.280 FD TIP C/C"],
-      "33 SERIES": ["33.330 FC 6M3 MIXER"],
+      "33 SERIES": ["33.330 FC 6M3 MIXER",
+        "JH6 33.420FT",
+        "JH6 33.460FT"],
       "8 SERIES": ["8.140 FL-MT"]
     },
     "Volkswagen": {
@@ -1365,7 +1367,9 @@
     },
     "FAW": {
       "28 SERIES": ["28.280 FD TIP C/C"],
-      "33 SERIES": ["33.330 FC 6M3 MIXER"]
+      "33 SERIES": ["33.330 FC 6M3 MIXER",
+        "JH6 33.420FT",
+        "JH6 33.460FT"]
     },
     "Isuzu": {
       "F/ GVR SERIES": [
@@ -1712,7 +1716,9 @@
     },
     "FAW": {
       "28 SERIES": ["28.280 FD TIP C/C"],
-      "33 SERIES": ["33.330 FC 6M3 MIXER"]
+      "33 SERIES": ["33.330 FC 6M3 MIXER",
+        "JH6 33.420FT",
+        "JH6 33.460FT"]
     },
     "Isuzu": {
       "F/ GVR SERIES": [
@@ -2065,7 +2071,9 @@
     },
     "FAW": {
       "28 SERIES": ["28.280 FD TIP C/C"],
-      "33 SERIES": ["33.330 FC 6M3 MIXER"]
+      "33 SERIES": ["33.330 FC 6M3 MIXER",
+        "JH6 33.420FT",
+        "JH6 33.460FT"]
     },
     "Warrior": {
       "DFL 375 - 420": ["KINLAND DFL 420 T/T C/C"]
@@ -2496,7 +2504,9 @@
     },
     "FAW": {
       "28 SERIES": ["28.280 FD TIP C/C", "28.380FT T/T C/C"],
-      "33 SERIES": ["33.330 FC 6M3 MIXER"]
+      "33 SERIES": ["33.330 FC 6M3 MIXER",
+        "JH6 33.420FT",
+        "JH6 33.460FT"]
     },
     "Warrior": {
       "14 Series": ["KINGRUN 14-180 F/C C/C"],
@@ -2884,7 +2894,9 @@
         "28.330 FL F/C C/C",
         "28.380FT T/T C/C"
       ],
-      "33 SERIES": ["33.330 FC 6M3 MIXER"],
+      "33 SERIES": ["33.330 FC 6M3 MIXER",
+        "JH6 33.420FT",
+        "JH6 33.460FT"],
       "35 SERIES": ["35.340 FD TIP C/C"]
     },
     "FOTON": {
@@ -3345,7 +3357,9 @@
         "28.330 FL F/C C/C",
         "28.380FT T/T C/C"
       ],
-      "33 SERIES": ["33.330 FC 6M3 MIXER"],
+      "33 SERIES": ["33.330 FC 6M3 MIXER",
+        "JH6 33.420FT",
+        "JH6 33.460FT"],
       "35 SERIES": ["35.340 FC 8M3 MIXER", "35.340 FD TIP C/C"]
     },
     "FOTON": {
@@ -3779,7 +3793,9 @@
         "28.330 FL F/C C/C",
         "28.380FT T/T C/C"
       ],
-      "33 SERIES": ["33.330 FC 6M3 MIXER"],
+      "33 SERIES": ["33.330 FC 6M3 MIXER",
+        "JH6 33.420FT",
+        "JH6 33.460FT"],
       "35 SERIES": ["35.340 FC 8M3 MIXER", "35.340 FD TIP C/C"]
     },
     "FOTON": {
@@ -3847,7 +3863,9 @@
         "28.330 FL F/C C/C",
         "28.380FT T/T C/C"
       ],
-      "33 SERIES": ["33.330 FC 6M3 MIXER"],
+      "33 SERIES": ["33.330 FC 6M3 MIXER",
+        "JH6 33.420FT",
+        "JH6 33.460FT"],
       "35 SERIES": ["35.340 FC 8M3 MIXER", "35.340 FD TIP C/C"]
     },
     "ISUZU": {
@@ -4330,7 +4348,9 @@
         "28.330 FL F/C C/C",
         "28.380FT T/T C/C"
       ],
-      "33 SERIES": ["33.330 FC 6M3 MIXER"],
+      "33 SERIES": ["33.330 FC 6M3 MIXER",
+        "JH6 33.420FT",
+        "JH6 33.460FT"],
       "35 SERIES": ["35.340 FC 8M3 MIXER", "35.340 FD TIP C/C"]
     },
     "FUSO": {
@@ -4792,7 +4812,9 @@
         "28.330 FL F/C C/C",
         "28.380FT T/T C/C"
       ],
-      "33 SERIES": ["33.330 FC 6M3 MIXER"],
+      "33 SERIES": ["33.330 FC 6M3 MIXER",
+        "JH6 33.420FT",
+        "JH6 33.460FT"],
       "35 SERIES": ["35.340 FC 8M3 MIXER", "35.340 FD TIP C/C"]
     },
     "FUSO": {
@@ -5264,7 +5286,9 @@
         "28.330 FL F/C C/C",
         "28.380FT T/T C/C"
       ],
-      "33 SERIES": ["33.330 FC 6M3 MIXER", "J5N 33.420FT 6X4 T/T C/C"],
+      "33 SERIES": ["33.330 FC 6M3 MIXER", "J5N 33.420FT 6X4 T/T C/C",
+        "JH6 33.420FT",
+        "JH6 33.460FT"],
       "35 SERIES": ["35.340 FC 8M3 MIXER", "35.340 FD TIP C/C"]
     },
     "FUSO": {
@@ -5774,7 +5798,9 @@
         "28.330 FL REFUSE",
         "28.380FT T/T C/C"
       ],
-      "33 SERIES": ["33.330 FC 6M3 MIXER", "J5N 33.420FT 6X4 T/T C/C"],
+      "33 SERIES": ["33.330 FC 6M3 MIXER", "J5N 33.420FT 6X4 T/T C/C",
+        "JH6 33.420FT",
+        "JH6 33.460FT"],
       "35 SERIES": ["35.340 FC 8M3 MIXER", "35.340 FD TIP C/C"]
     },
     "FUSO": {
@@ -6336,7 +6362,9 @@
       "33 SERIES": [
         "J5N 33.340FD 6X4 H/RED TIP",
         "33.330 FC 6M3 MIXER",
-        "J5N 33.420FT 6X4 T/T C/C"
+        "J5N 33.420FT 6X4 T/T C/C",
+        "JH6 33.420FT",
+        "JH6 33.460FT"
       ],
       "35 SERIES": ["35.340 FC 8M3 MIXER", "35.340 FD TIP C/C"]
     },
@@ -6918,7 +6946,9 @@
         "J5N 33.340FC 6X4 6M3 MIXER",
         "J5N 33.340FD 6X4 H/RED TIP",
         "33.330 FC 6M3 MIXER",
-        "J5N 33.420FT 6X4 T/T C/C"
+        "J5N 33.420FT 6X4 T/T C/C",
+        "JH6 33.420FT",
+        "JH6 33.460FT"
       ],
       "35 SERIES": [
         "J5N 35.340 FD TIP C/C",
