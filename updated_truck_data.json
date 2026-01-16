@@ -5781,6 +5781,9 @@
       ]
     },
     "FAW": {
+      "6 SERIES": [
+        "6.130 FL-MT"
+      ],
       "8 SERIES": ["8.140 FL-MT"],
       "15 SERIES": [
         "15.180 FL 8 TON F/C C/C",
@@ -7821,8 +7824,12 @@
       ]
     },
     "FAW": {
+      "3 SERIES": [
+        "3.110FL"
+      ],
       "6 SERIES": [
-        "6.130 FL-MT"
+        "6.130 FL-MT",
+        "JH6 28.500 FT / FT-AMT"
       ],
       "8 SERIES": [
         "8.140 FL-MT",
@@ -7956,8 +7963,14 @@
       ]
     },
     "FAW": {
+      "3 SERIES" [
+        "3.110FL"
+      ],
       "6 SERIES": [
-        "6.130 FL-MT"
+        "6.130 FL-MT",
+        "JH6 28.500 FT / FT-AMT",
+        "JK6 15.220 FL (8 Ton)",
+        "JH6 33.420 FT"
       ],
       "8 SERIES": [
         "8.140 FL-MT",
@@ -8571,8 +8584,14 @@
       ]
     },
     "FAW": {
+      "3 SERIES" [
+        "3.110FL"
+      ],
       "6 SERIES": [
-        "6.130 FL-MT"
+        "6.130 FL-MT",
+        "JH6 28.500 FT / FT-AMT",
+        "JK6 15.220 FL (8 Ton)",
+        "JH6 33.420 FT"
       ],
       "8 SERIES": [
         "8.140 FL-MT",
@@ -9198,8 +9217,16 @@
       ]
     },
     "FAW": {
+      "3 SERIES" [
+        "3.110FL"
+      ],
       "6 SERIES": [
-        "6.130 FL-MT"
+        "6.130 FL-MT",
+        "JH6 28.500 FT / FT-AMT",
+        "JK6 15.220 FL (8 Ton)",
+        "JH6 33.420 FT",
+        "JK6 15.220 FD / FT (4x2)",
+        "JH6 28.320 FL (Compactor)"
       ],
       "8 SERIES": [
         "8.140 FL-MT",
@@ -9506,8 +9533,21 @@
   },
   "2025": {
     "FAW": {
+      "3 SERIES" [
+        "3.110FL"
+      ],
       "6 SERIES": [
-        "6.130 FL-MT"
+        "6.130 FL-MT",
+        "JK6 16.240 FL/FD/FT",
+        "JK6 16.260 FL-MT",
+        "JK6 16.260 FL-AMT",
+        "JH6 28.500 FT / FT-AMT",
+        "JK6 15.220 FL (8 Ton)",
+        "JH6 33.420 FT",
+        "JK6 15.220 FD / FT (4x2)",
+        "JH6 28.320 FL (Compactor)",
+        "JH6 33.460 FT-AMT",
+        "JH6 28.550 FT-AMT"
       ],
       "8 SERIES": [
         "8.140 FL-MT",
